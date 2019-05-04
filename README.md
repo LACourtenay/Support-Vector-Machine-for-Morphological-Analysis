@@ -43,7 +43,7 @@ as the csv file. For an example of the format of data sets, please consult the c
 
 --------------------------------------------------------
 
-Please cite this code as:
+Please cite these codes as:
 
  <b> Courtenay (2019) Support Vector Machine for Morphological Analysis. https://github.com/LACourtenay/Support-Vector-Machine-for-Morphological-Analysis
 </b>
