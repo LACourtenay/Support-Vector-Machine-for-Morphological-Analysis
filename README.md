@@ -30,8 +30,10 @@ Universidad Complutense de Madrid [UCM]
 
 ---------------------------------------------------------------------------------------------------
 
-This code is designe for the open-access free R software. This is easy to use by simply executing each line of code within the R shell. 
+This code has been designed for the open-access free R software. This is easy to use by simply executing each line of code within the R shell. 
+
 <b> No additional formatting of the actual code should be needed. </b>
+
 For geometric morphometric data, the file containing landmark coordinates should be in the standard <b> morphologika </b> format
 For metric data, the data is simply required to be saved in a .csv (comma delimited) file format
 For ease of the analyst, and in order for this code to work, the labels for your data <i> have </i> to be named "Sample". This is applicable both to the morphologika as well
@@ -49,13 +51,9 @@ Please cite this code as:
 --------------------------------------------------------
 
 This code was designed and prepared for the study by:
-<b> Yravedra et al. (in prep) The use of tooth marks of dog, wolf and fox on bones for Identifying the predation
-of livestock </b>
-
-Full description of our methods have been provided in the supplementary information for said article
-Data used in this study is available from:
+<b> Yravedra, J.; Maté-González, M.Á.; Courtenay, L.A.; González-Aguilera, D. (in prep) The use of dog, wolf and fox tooth marks on bone for the identification of livestock predation </b>
 
 ------------------------------------------------------------
 Comments, questions, doubts, suggestions and corrections can all be directed to L. A. Courtenay at the email provided above.
 Science should be a collaborative effort. Archaeology is no exception to this. If any fellow data
-scientist wishes to improve, contribute, update or help with this work, please do not hesitate to contact the corresponding author.
+scientist wishes to improve, contribute, update, report issues or help with this work, please do not hesitate to contact the corresponding author.
