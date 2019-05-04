@@ -10,7 +10,7 @@
 #
 #
 # Written - 15/04/2019
-# Last Update - 04/05/2019
+# Last Update - 05/05/2019
 
 # Load packages and set up workspace -----------------------------------------------------------------------------------------------------
 
@@ -22,8 +22,6 @@ library(shapes)
 # Geometric Morphometrics ----------------------------------------------------------------------------------------------------------------
 
 a<-read.morphologika(file.choose()) # Load Morphologika file
-GPA<-gpagen(a$coords, curves = NULL, surfaces = NULL, PrinAxes = TRUE,
-            max.iter = NULL, ProcD = TRUE, Proj = TRUE, print.progress = TRUE) # Generalised Procrustes Fit
 
 # Choose the line of code corresponding to the type of marks being studied
 
