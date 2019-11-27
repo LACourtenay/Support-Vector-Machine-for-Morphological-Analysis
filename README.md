@@ -49,7 +49,7 @@ Please cite these codes as:
 --------------------------------------------------------
 
 This code was designed and prepared for the study by:
-<b> Yravedra, J.; Maté-González, M.Á.; Courtenay, L.A.; González-Aguilera, D. (in prep) The use of dog, wolf and fox tooth marks on bone for the identification of livestock predation </b>
+<b> Yravedra, J.; Maté-González, M.Á.; Courtenay, L.A.; González-Aguilera, D. (2019) The use of canid tooth marks on bone for the identification of livestock predation. DOI: 10.1038/s41598-019-52807-0 </b>
 
 ------------------------------------------------------------
 Comments, questions, doubts, suggestions and corrections can all be directed to L. A. Courtenay at the email provided above.
