@@ -21,11 +21,8 @@ https://orcid.org/0000-0002-4810-2001
 
 Current Afiliations:
 
-Universidad Rovira i Virgili [URV]
+Universidad de Salamanca [USAL]
 
-Institut de Paleocologia Humana i Evolució Social [IPHES]
-
-Universidad Complutense de Madrid [UCM]
 </i>
 
 ---------------------------------------------------------------------------------------------------
