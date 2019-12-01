@@ -37,7 +37,9 @@ This code has been designed for the open-access free R software. This is easy to
 For geometric morphometric data, the file containing landmark coordinates should be in the standard <b> morphologika </b> format.
 For metric data, the data is simply required to be saved in a .csv (comma delimited) file format.
 For ease of the analyst, and in order for this code to work, the labels for your data <i> have </i> to be named "Sample". This is applicable both to the morphologika as well as the csv file. For an example of the format of data sets, please consult the corresponding files at:
-https://doi.org/10.6084/m9.figshare.c.4494218
+https://doi.org/10.6084/m9.figshare.8081108.v1
+https://doi.org/10.6084/m9.figshare.8081105.v1
+https://doi.org/10.6084/m9.figshare.8081081.v1
 
 --------------------------------------------------------
 
