@@ -49,7 +49,7 @@ split.data = function(data,p = 0.7, s = 666) {
 
 # Split into training and test sets
 
-allset<-split.data(boot, p = 0.7) # Use new function to split data 70% for training
+allset<-split.data(svm_data, p = 0.7) # Use new function to split data 70% for training
 trainset<-allset$train # Allocate 70% to training set
 testset<-allset$test # Allocate 30% to test set
 ctrl<-trainControl(method = "repeatedcv", repeats = 10) # Set the control funtion to k = 10 fold Cross Validation
