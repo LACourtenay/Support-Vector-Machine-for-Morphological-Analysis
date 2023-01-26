@@ -38,8 +38,6 @@ svm_data<-data.frame(Sample = a$labels, pcscores) # Save as new data frame with 
 
 set.seed(1000) # Set seed for random number generator
 
-boot<-svm_data[sample(nrow(svm_data), size = 1000, replace = TRUE),] # Bootstrap for training
-
 # Create function to split data into test and training sets
 
 split.data = function(data,p = 0.7, s = 666) {
