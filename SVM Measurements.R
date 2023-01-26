@@ -25,8 +25,6 @@ svm_data<-read.csv(file.choose(), header = TRUE) # Load comma delimited csv file
 
 set.seed(1000) # Set seed for random number generator
 
-boot<-svm_data[sample(nrow(svm_data), size = 1000, replace = TRUE),] # Bootstrap sample for training
-
 # Create function to split data into test and training sets
 
 split.data = function(data,p = 0.7, s = 666) {
