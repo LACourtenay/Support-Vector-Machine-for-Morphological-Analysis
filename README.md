@@ -52,3 +52,18 @@ This code was designed and prepared for the study by:
 Comments, questions, doubts, suggestions and corrections can all be directed to L. A. Courtenay at the email provided above.
 Science should be a collaborative effort. Archaeology is no exception to this. If any fellow data
 scientist wishes to improve, contribute, update, report issues or help with this work, please do not hesitate to contact the corresponding author.
+
+
+---------------------------------------------------------------------------------------------------
+
+## License
+
+This project is licensed under the GNU Affero General Public License v3.0.
+See the LICENSE file for details.
+
+<b> Copyright (C) 2019 Lloyd Courtenay </b>
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, version 3.
+
